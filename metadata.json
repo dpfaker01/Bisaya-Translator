@@ -1,0 +1,5 @@
+{
+  "name": " Bisaya Translator with Image to text extractor 1.1",
+  "description": "An application to extract English text from an image and translate it to Bisaya.",
+  "requestFramePermissions": []
+}
